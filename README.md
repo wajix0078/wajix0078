@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 
 -->
 ![Wajahat's Github stats](https://github-readme-stats.vercel.app/api?username=wajix0078&theme=highcontrast&show_icons=true&count_private=true)
+&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wajix0078&layout=compact&hide=html,php)](https://github.com/anuraghazra/github-readme-stats)
 
