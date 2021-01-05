@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Wajahat's Github stats](https://github-readme-stats.vercel.app/api?username=wajix0078&theme=highcontrast&show_icons=true&count_private=true)\
 \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wajix0078&layout=compact&hide=html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wajix0078&layout=compact&hide=html,php)](https://github.com/anuraghazra/github-readme-stats)\
 \
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=wajix0078&repo=repo-name&show_owner=true)](https://github.com/yourusername/repo-name)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=wajix0078&repo=Machine-learning&show_owner=true)](https://github.com/yourusername/repo-name)
 
