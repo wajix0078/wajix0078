@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Topic Modelling
 - 🌱 I’m currently learning Natural Language Processing
-- 📫 How to reach me: https://www.instagram.com/senor_wajahat 
+- 📫 How to reach me: Linkedin: https://www.linkedin.com/in/wajahat-masood-b9bb731b8 | Instagram: https://www.instagram.com/senor_wajahat 
 
 ![Wajahat's Github stats](https://github-readme-stats.vercel.app/api?username=wajix0078&theme=highcontrast&show_icons=true&count_private=true)\
 \
