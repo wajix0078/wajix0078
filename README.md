@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+- ⚡ Ping me on my malibox (wajahat@interstellus.io)
 - 🔭 I’m currently working on MERN
 - 🌱 I’m currently learning Natural Language Processing
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/wajahat-masood-b9bb731b8 / Instagram: https://www.instagram.com/senor_wajahat 
