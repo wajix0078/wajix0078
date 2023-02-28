@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 -->
 - ⚡ Ping me on my malibox (wajahat@interstellus.io)
-- 🔭 I’m currently working on MERN
+- 🔭 I’m currently working on AWS + Digital Ocean based Infrastructure
 - 🌱 I’m currently learning DevOps
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/wajahat-masood-b9bb731b8 / Instagram: https://www.instagram.com/senor_wajahat 
 
